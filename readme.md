@@ -5,7 +5,7 @@ Simple utility to list all bitcoin addresses with positive balance. It works by 
 #### Prequisities:  
 python 2.7  
 pip  
-
+*Kirilusd must run: sudo apt-get install libleveldb-dev
 #### To install:  
 run sudo ./install.sh
 
